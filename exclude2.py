@@ -8,7 +8,7 @@ pa.PAUSE = 1  # Pausa automática de 1 segundo após cada ação do PyAutoGUI.
 # CONFIGURAÇÕES
 # ==============================
 
-QUANTIDADE = 5  # Quantidade de contatos a excluir.
+QUANTIDADE = 65  # Quantidade de contatos a excluir.
 
 TEMPO_INICIAL = 5  # Tempo para posicionar a página antes de iniciar.
 
@@ -16,9 +16,9 @@ ESPERA_MODAL = 2 # Tempo para o modal de confirmação aparecer.
 
 ESPERA_PAGINA = 8 # Tempo para a página atualizar após a exclusão.
 
-BOTAO_EXCLUIR = (-430, 671) # Coordenada do botão "Excluir" do contato.
+BOTAO_EXCLUIR = (-430, 673) # Coordenada do botão "Excluir" do contato.
 
-BOTAO_CONFIRMAR = (-994, 388) # Coordenada do botão "Excluir" do modal.
+BOTAO_CONFIRMAR = (-992, 389) # Coordenada do botão "Excluir" do modal.
 
 # ==============================
 # INÍCIO
